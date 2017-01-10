@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="pj2">
+    <CLASSES>
+      <root url="jar://C:/Pj2jar/pj2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Pj2jar/pj2.jar!/pj2/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Pj2jar/pj2.jar!/pj2/lib" />
+    </SOURCES>
+  </library>
+</component>
