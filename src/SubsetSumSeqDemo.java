@@ -5,8 +5,8 @@ import java.util.*;
 
 /**
  * This class solves the Subset sum problem sequentially
- * @author Karan Jariwala
  * @author Alimuddin Khan
+ * @author Karan Jariwala
  *
  * @version 12-06-2016
  */

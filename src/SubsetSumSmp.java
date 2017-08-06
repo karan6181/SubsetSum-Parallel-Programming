@@ -8,8 +8,8 @@ import java.util.*;
 
 /**
  * This class solves the Subset sum problem parallely on multicore
- * @author Karan Jariwala
  * @author Alimuddin Khan
+ * @author Karan Jariwala
  *
  * @version 12-06-2016
  */
