@@ -1,4 +1,4 @@
-Implementation of Two-List algorithm for the Subset-Sum problem on a cluster parallel machine
+# Implementation of Two-List algorithm for the Subset-Sum problem on a cluster parallel machine
 
 Problem statement: Given a set of positive integers N and a sum S, does there exist a subset N’ ⊆ N such that sum of all the elements in that subset is S. The subset-sum problem is a well-known non-deterministic polynomial-time complete (NPcomplete) decision problem and it is also a special case of 0-1 Knapsack problem. We have used java programming language and parallel java 2 library.
 
